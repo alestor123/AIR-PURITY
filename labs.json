@@ -1,0 +1,10 @@
+{
+    "pm": "current PM2.5 Value",
+    "v1": "10 minute",
+    "v2" : "30 minute average",
+    "v3": "1 hour average",
+    "v4": "6 hour average",
+    "v5": "24 hour average",
+    "v6": "One week average",
+    "lastModified": "Last modified"
+}
